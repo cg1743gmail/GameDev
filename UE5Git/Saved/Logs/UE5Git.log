@@ -1074,3 +1074,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.25-02.07.29:253][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2023.02.25-02.07.29:257][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.02.25-02.09.22:574][246]LogDerivedDataCache: F:/huancun/UECache/ProjectDDC: Maintenance finished in +00:00:00.115 and deleted 85 files with total size 16 MiB. Scanned 129 files in 128 folders with total size 18 MiB.
+[2023.02.25-02.09.56:560][348]LogDerivedDataCache: F:/huancun/UECache/LocalDDC: Maintenance finished in +00:00:34.114 and deleted 0 files with total size 0 MiB. Scanned 18130 files in 17639 folders with total size 2310 MiB.
